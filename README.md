@@ -2,6 +2,8 @@
 pycoin
 ======
 
+[![Join the chat at https://gitter.im/cdecker/pycoin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cdecker/pycoin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Minimalistic python implementation of the Bitcoin networking
 stack. This library was developed to facilitate measurements in the
 Bitcoin network for some of my papers. It does include everything that
